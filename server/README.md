@@ -47,10 +47,6 @@ Version of node - `16.xx.xx`
 ## Authors
 
 - [Michal Durik](https://github.com/miko866)
-- [Peter Brodec]()
-- [Martin Řehořek]()
-- [Antonín Martykán]()
-- [Martin Lefler]()
 
 ## Copyright
 
